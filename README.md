@@ -30,7 +30,7 @@ HealthCare ChatBot is an AI-powered chatbot designed to help users diagnose medi
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/healthcare_chatbot.git
+   https://github.com/Siddarthprasanna/healthcare.git
    cd HealthCare_ChatBot
 ##Install the required Python libraries:
 pip install pandas scikit-learn pyttsx3
