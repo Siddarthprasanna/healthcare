@@ -32,15 +32,15 @@ HealthCare ChatBot is an AI-powered chatbot designed to help users diagnose medi
    ```bash
    https://github.com/Siddarthprasanna/healthcare.git
    cd HealthCare_ChatBot
-##Install the required Python libraries:
+**Install the required Python libraries:**
 pip install pandas scikit-learn pyttsx3
 
 
-Run the HealthCare ChatBot:
+**Run the HealthCare ChatBot:**
 python healthcare_chatbot.py
 
 
-##Usage:
+**Usage:**
 When you run the HealthCare ChatBot, it will open a chat-like interface where you can interact with the bot.
 
 Enter your name when prompted.
