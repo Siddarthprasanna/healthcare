@@ -8,8 +8,7 @@ HealthCare ChatBot is an AI-powered chatbot designed to help users diagnose medi
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
